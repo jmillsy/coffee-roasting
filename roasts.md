@@ -1,7 +1,8 @@
 | Roast | Date | Time | Dev % | Profile |
 |-------|------|------|-------|----------|
-| #43 | Wed Dec 10 2025 | 8.1 min | 13.2% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2343.png) |
+| #42 | Wed Dec 10 2025 | 9.3 min | 15.1% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2342.png) |
 | #44 | Wed Dec 10 2025 | 9.0 min | 16.6% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2344.png) |
+| #43 | Wed Dec 10 2025 | 8.1 min | 13.2% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2343.png) |
 | #31 | Fri Dec 5 2025 | 8.0 min | 14.2% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2331.png) |
 | #30 | Sat Nov 29 2025 | 9.9 min | 13.1% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2330.png) |
 | #28 | Fri Nov 28 2025 | 10.1 min | 11.3% | ![Profile](https://raw.githubusercontent.com/jmillsy/coffee-roasting/refs/heads/main/renders/%2328.png) |
